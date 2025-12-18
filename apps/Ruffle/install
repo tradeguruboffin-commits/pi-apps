@@ -1,6 +1,10 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 version=nightly-2025-12-18
+=======
+version=nightly-2025-12-15
+>>>>>>> 74d06f36158270c190eea54250af8dd698e235a2
 
 # Purge any existing Ruffle instances if already found
 status "Purging any existing Ruffle copies and code if found"
